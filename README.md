@@ -1,9 +1,11 @@
 CUDA Matrix Manipulation
 
 Introduction
+
 This repository contains code for performing matrix multiplication using CUDA (Compute Unified Device Architecture). The code leverages GPU parallelism to accelerate matrix multiplication operations, offering significant performance improvements over traditional CPU-based implementations.
 
 Features
+
 GPU Acceleration: Utilizes CUDA technology to harness the computational power of GPUs for matrix manipulation tasks.
 Matrix Multiplication: Implements matrix multiplication functionality both on CPU and GPU, allowing for performance comparison between the two approaches.
 Verification: Provides verification mechanism to ensure correctness of GPU-accelerated matrix multiplication results by comparing them with CPU-calculated results.
