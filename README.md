@@ -36,10 +36,12 @@ Copy code
 Review the output, which includes execution times for both CPU and GPU implementations, as well as verification results.
 
 Requirements
+
 CUDA-enabled GPU
 CUDA toolkit
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License.
